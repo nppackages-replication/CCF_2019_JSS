@@ -12,7 +12,7 @@ https://nppackages.github.io/replication
 
 ## Empirical Application
 
-- See: [lpdensity](https://github.com/nppackages/lpdensity)
+- See: [nprobust](https://github.com/nppackages/nprobust)
 
 
 ## Reference
