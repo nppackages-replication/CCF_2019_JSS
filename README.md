@@ -12,7 +12,7 @@ https://nppackages.github.io/replication
 
 ## Empirical Application
 
-- See: [nprobust](https://github.com/nppackages/nprobust)
+- R and Stata replication: [nprobust](https://github.com/nppackages/nprobust)
 
 
 ## Reference
